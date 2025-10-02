@@ -1,0 +1,32 @@
+A Culture Adaptor, based on the World Values Survey, with a geographical interface.
+
+Using the data from the World Values Survey and the European Values Survey, create an interactive map of cultural
+profiles across the world. 
+
+Create a comparison matrix, where different countries can be selected and then compared to each other, across every
+different questions within the surveys. These different questions should be grouped together, with a drop down that 
+can be opened or closed. The groupings should have a weighted score for each question within the group, which the
+user can customise when the drop down is open and each line is being explored. 
+
+Additionally, add the functionality for retrospective and future data to be added.
+
+Add the functionality for users to create family and team groups, where they can complete the world values survey
+and european values survey, and then be compared against each other and to other countries. Match profiles to their closest
+country.
+
+Add the functionality for users to add an OpenAI API key which can be used to generate the following:
+1. The basis for a specific answer to a question, through the cultural lens. - Why people with x score will think that way
+2. The lens that they will look through at a user provided situation, given a score or set of scores
+3. The difference between two scores, and why they might clash or work well together.
+4. How people can work well together, given the score/s of two or more people.
+5. How family dyanmics can be made smoother, given the score/s of two or more people.
+
+Each question should not take in personal information and be saved and then when someone else asks the same question,
+the answer can be provided to them as well.
+
+Techstack
+Create this in an ipynb file which will be suitable for working in google colab.
+
+Interactive Map: leaflet.js
+Backend: Python Fast API
+The data will be provided in CSVs in the google colab folders 
