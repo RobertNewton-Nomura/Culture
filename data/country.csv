@@ -1,0 +1,4 @@
+Country,ISO3,Latitude,Longitude,Year,Source,A001,A002
+Sweden,SWE,60.1282,18.6435,2022,WVS,0.72,0.65
+United States,USA,37.0902,-95.7129,2022,WVS,0.58,0.42
+Japan,JPN,36.2048,138.2529,2022,WVS,0.33,0.68

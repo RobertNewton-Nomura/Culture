@@ -1,0 +1,7 @@
+Country,Region,ISO3,Latitude,Longitude,Year,Source,A001,A002
+Sweden,Stockholm County,SWE,59.3293,18.0686,2022,WVS,0.75,0.67
+Sweden,Skåne County,SWE,55.9903,13.5958,2022,WVS,0.70,0.60
+United States,California,USA,36.7783,-119.4179,2022,WVS,0.62,0.40
+United States,New York,USA,43.2994,-74.2179,2022,WVS,0.54,0.45
+Japan,Tokyo Prefecture,JPN,35.6762,139.6503,2022,WVS,0.30,0.70
+Japan,Osaka Prefecture,JPN,34.6937,135.5023,2022,WVS,0.35,0.66
